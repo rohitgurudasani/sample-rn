@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9602d1e79216cd0e61d22fad40caee64365f29ac">
+        <dex dex="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.5.0_28dd29f818691c49adbe85f05d1961c76c46c14b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8bf2709be142a2d0784d5e548842026dc28079dc">
+        <dex dex="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.5.0_f88e94f0c3af415c3d3a76d667cf7cd0c6e1d062.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_c5203f32ee931b0e8a59354cad412f1ab563acc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.47.2_0552cc46c7697389df3f735dea2597ce0ece6867.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/exploded-aar/com.facebook.fresco/animated-base/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cdf7493923bc608dadd034f2558be5c07aad19ab">
+        <dex dex="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-animated-base-1.5.0_202e2d0aa1d0b34dee0b4afea85e34e0d28e1cfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_8d4a9912cfa5f26209dca197b5e26b4e1560496a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_51a385c804873c12c01fd9aef0f13e74bb5aad62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/exploded-aar/com.facebook.fresco/animated-gif/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b3949978d5c50bc27d8077d67622a3f9a580dee4">
+        <dex dex="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-animated-gif-1.5.0_c6d64f525ece492266f3c731d35a803ea6ff0a9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_8fa4c703b1c9815b3b0521964dc3164195bc77b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_898620849e9173073fd03a4b1b68294817b6c85c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_5694c4852f8df1b6176a56f8539ebb5d90b369a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_f89d06ec75f1d9023ee8c71688b64e87fccadef4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_a26821af3be3434fc2e73dfbdcc28772f44fc3b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_ea904d7286a67050b9ba6b401ffb46906d9bbc49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_4a357036ef237411e0ad71d6392831c9d5b6ac17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_989a4dc3f2f025859f116e76d1bc435fceca70ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_b22ea04c9a539852170b3142fc3974f0951fa17f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="da8b8f3f1fed75b39f0b9228bea5512f10bfff6f">
+        <dex dex="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.5.0_7e4bee98bdf902686fcb16dc1645b781be22d9ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9644834bb403cfd73f5695b908a933c1ff236217">
+        <dex dex="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.5.0_74c3cc27db6ca35abc6f8634506d8f10cf0ab1c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_46f5d2a69b0a926af21527767089bf868a2e622f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/exploded-aar/com.facebook.fresco/animated-drawable/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ef9622fcbd4baf54f4c6ac3d2cd0c601b248da25">
+        <dex dex="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-animated-drawable-1.5.0_b680c03193210b3118d3574f3e7ad61d33f76a7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_faa9e37e258c7359e7617b325e75736026fd9b87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_e062f66a88bc0dafbff0df1ba2ca78f71aedd07f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1c6d36281ce1c28ebeb58155c3ceac425dcec5e2">
+        <dex dex="/home/asus/Desktop/ztest/react-native-assignment/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.5.0_19db771e314c3c0a0b2808b7af4b6e3f2c89e4ed.jar" />
+    </item>
+
+</items>
